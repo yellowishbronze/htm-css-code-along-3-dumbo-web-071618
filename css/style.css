@@ -43,4 +43,13 @@ text-shadow: 0 2px, 3px #000;
 background: aqua;
 }
 
-/*Descendent selector
+/*Descendent selector */
+
+#logo h1 {/* selects <h1> if inside the id="logo" */
+  font-family: 'Clicker Script', cursive;
+}
+#logo h2 {
+  font-family: : 'Elsie Swash Caps', cursive;
+}
+
+/* Pseudo Selector */
