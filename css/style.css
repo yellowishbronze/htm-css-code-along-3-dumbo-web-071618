@@ -53,3 +53,7 @@ background: aqua;
 }
 
 /* Pseudo Selector */
+#details a:link {
+  color: black;
+  text-decoration: none;
+}
