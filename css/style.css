@@ -39,4 +39,7 @@ text-shadow: 0 2px, 3px #000;
 }
 
 /* ID selector (apply to only one unique element per page) */
-#logo {
+#logo {/* select elements with id = "milk-text" */
+
+  
+}
